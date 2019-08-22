@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c04d9859-42d0-43cc-b5a8-7eca2d443c1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../서동욱/수업_1주차/필기/자료/Fibonacci.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/matching.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/matching2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/topmenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/topmenu.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,6 +158,7 @@
       <workItem from="1565585706999" duration="502000" />
       <workItem from="1565601413188" duration="7126000" />
       <workItem from="1565659145349" duration="625000" />
+      <workItem from="1566437400188" duration="21026000" />
     </task>
     <servers />
   </component>
@@ -162,6 +179,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/docProject$docProject.coverage" NAME="docProject Coverage Results" MODIFIED="1565608715803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/docProject$docProject.coverage" NAME="docProject Coverage Results" MODIFIED="1566451351135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
